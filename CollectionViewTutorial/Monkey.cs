@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CollectionViewTutorial
 {
-    class Monkey
+    public class Monkey
     {
         public string Name { get; set; }
         public string Location { get; set; }
